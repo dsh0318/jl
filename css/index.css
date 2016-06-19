@@ -273,7 +273,7 @@ html, body {
 
 .pageFir p:nth-child(3) {
     z-index: 5;
-    bottom: 6rem;
+    bottom: 5rem;
     left: 1.6rem;
     color: #fff;
     font-size: .36rem;
@@ -300,7 +300,7 @@ html, body {
 
 .pageFir p:nth-child(5) {
     z-index: 7;
-    bottom: 4.5rem;
+    bottom: 4rem;
     left: 2rem;
     color: #fff;
     font-size: .32rem;
@@ -671,8 +671,8 @@ html, body {
 }
 
 #page4 img:nth-child(3) {
-    -webkit-animation: zoomIn 1s .6s 1 both;
-    animation: zoomIn 1s .6s 1 both;
+    -webkit-animation: zoomIn 1s .9s 1 both;
+    animation: zoomIn 1s .9s 1 both;
 }
 
 .pageFour p{
@@ -688,8 +688,8 @@ html, body {
 }
 
 #page4 p:nth-child(4) {
-    -webkit-animation: flipInX 1s 1s both;
-    animation: flipInX 1s 1s both;
+    -webkit-animation: zoomIn 1s 1s both;
+    animation: zoomIn 1s 1s both;
 }
 
 /*--第五页的样式--*/
